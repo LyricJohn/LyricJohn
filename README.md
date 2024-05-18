@@ -1,5 +1,1 @@
-Hello, there! This is my first project, which is solely a visual one.
-
-This project contains songs made in GarageBand by yours truly.
-
-[DIRECTION]: Double-click the top half of the screen to skip to the next song.
+Nice to see you! My name is Lyirc Johnson, and I'm a front-end web developer! I like music, video games, and Mediterranean food, and I have a deep love for storytelling!
